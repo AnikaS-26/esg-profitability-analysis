@@ -24,3 +24,8 @@ Analyzed the relationship between ESG (Environmental, Social, Governance) scores
 3. **Statistical modeling**  
    - Estimated regression models quantifying the relationship between ESG scores and profit margins  
    - Assessed effect sizes, statistical significance, and sector-specific patterns  
+
+## Key Results
+- Found a **modest positive association** between higher ESG scores and profit margins  
+- Relationship varied by sector (stronger in consumer-facing industries)  
+- Demonstrates ability to handle messy financial data and communicate business-relevant insights
