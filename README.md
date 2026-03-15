@@ -24,5 +24,3 @@ Analyzed the relationship between ESG (Environmental, Social, Governance) scores
 3. **Statistical modeling**  
    - Estimated regression models quantifying the relationship between ESG scores and profit margins  
    - Assessed effect sizes, statistical significance, and sector-specific patterns  
-
-## Repository structure
